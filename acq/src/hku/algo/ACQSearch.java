@@ -18,6 +18,7 @@ public class ACQSearch {
 	//dblp
 	public static void main(String[] args) {
 		String Root = args[0] ;
+		//没用的四行
 		String Graph = Root + "/graph.txt";
 		String Vertex = Root + "/vertex.txt";
 		String Edge = Root + "/edge.txt";
